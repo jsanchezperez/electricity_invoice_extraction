@@ -1,1 +1,1 @@
-# electricity_invoice_extraction
+# Information Extraction from Electricity Invoices
