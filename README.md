@@ -2,7 +2,7 @@
 
 This is the official repository for the A Bag-of-Words Approach for Information Extraction from Electricity Invoices paper.
 
-[A Bag-of-Words Approach for Information Extraction from Electricity Invoices]([https://arxiv.org/abs/2402.02995](https://www.preprints.org/manuscript/202405.1564/v1)), preprint.
+[A Bag-of-Words Approach for Information Extraction from Electricity Invoices](https://www.preprints.org/manuscript/202405.1564/v1), preprint.
 
 *by Javier Sánchez and Giovanny A. Cuervo-Londoño* 
 
@@ -61,7 +61,7 @@ This repository contains the implementation of a method to extract information f
 ### Installation
   1. Clone the repository:
   ```bash
-  git clone https://github.com/yourusername/repo-name.git
+  git clone https://github.com/jsanchezperez/electricity_invoice_extraction.git
   ```
   2. Install dependencies:
   ```bash
@@ -70,26 +70,29 @@ This repository contains the implementation of a method to extract information f
 ### Usage
 Run the main script to process invoices:
   ```bash
-  python main.py --input_folder ./invoices --output_folder ./results
+  ipython -c "%run main.ipynb"
   ```
+### Data Availability
+The IDSEM dataset ([Sánchez et al.](https://www.nature.com/articles/s41597-022-01885-3)) is publicly available in Figshare at [https://doi.org/10.6084/m9.figshare.c.6045245.v1](https://doi.org/10.6084/m9.figshare.c.6045245.v1).
+
 
 ### Contributions
 Contributions are welcome. Please submit a pull request or open an issue for any suggestions.
 
 ### License
-This project is licensed under the Creative Commons Attribution License. See the [LICENSE](URL) file for details.
+This project is licensed under the Creative Commons Attribution License. See the [LICENSE](https://github.com/jsanchezperez/electricity_invoice_extraction/blob/main/LICENSE) file for details.
 
 ### Contact
 For any inquiries, please contact:
 
-Javier Sánchez: [jsanchez@ulpgc.es](URL)
-Giovanny A. Cuervo-Londoño: [giovanny.cuervo101@alu.ulpgc.es](URL)
+  Javier Sánchez: [jsanchez@ulpgc.es](URL)
+ 
+  GA. C-Londoño: [giovanny.cuervo101@alu.ulpgc.es](URL)
 
 ### Acknowledgments
-Special thanks to the IDSEM dataset creators and contributors for their support and resources.
+Special thanks to the Servicio Canario de Salud, Gobierno de Canarias, for funding this project.
 
 ## References
-
 If you use the resource in your research, please cite our paper:
 ```tex
 @article{202405.1564,
