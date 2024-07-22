@@ -1,6 +1,6 @@
 # Information Extraction from Electricity Invoices
 
-This is the official repository for the A Bag-of-Words Approach for Information Extraction from Electricity Invoices paper.
+This is the repository for the A Bag-of-Words Approach for Information Extraction from Electricity Invoices paper.
 
 [A Bag-of-Words Approach for Information Extraction from Electricity Invoices](https://www.preprints.org/manuscript/202405.1564/v1), preprint.
 
